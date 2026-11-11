@@ -1,0 +1,6 @@
+{
+  "name": "DEAD AIR - Midnight Radio Solana Coin",
+  "description": "An immersive noir midnight radio fictional-world meme coin on Solana. Something's on the frequency at 00:07.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
