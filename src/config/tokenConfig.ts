@@ -74,8 +74,8 @@ export const DEFAULT_TOKEN_CONFIG: TokenConfig = {
     solscan: '',
     dexscreener: '',
     tradingSwap: '',
-    twitter: 'https://x.com/deadair_radio',
-    telegram: 'https://t.me/deadair_frequency',
+    twitter: 'https://x.com/DeadAir_fm',
+    telegram: 'https://t.me/Deadairlive',
     discord: '', // Left blank until officially launched
   },
   disclaimers: {
